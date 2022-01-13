@@ -1,0 +1,14 @@
+{
+  "name": "afischer/328/hello",
+  "description": "My first MVC F3 Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Alex Fischer",
+      "email": "fischer.alex@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
